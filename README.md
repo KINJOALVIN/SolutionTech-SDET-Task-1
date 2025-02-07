@@ -1,7 +1,8 @@
 Prerequisites:
 1. NodeJs
 2. Visual Studio
-   How to run tests:
+
+How to run tests:
 1. git clone https://github.com/KINJOALVIN/SolutionTech-SDET-Task-1.git
 cd SolutionTech-SDET-Task-1
 2. Install dependencies: "npm install"
